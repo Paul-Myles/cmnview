@@ -1,0 +1,67 @@
+{
+  "section": [
+    {
+      "subSectionId": "42",
+      "subSectionName": "Wall cladding",
+      "subSectionTitle": "What type of wall cladding does your property have?",
+      "subSectionYesNo": true,
+      "subSectionOther": false,
+      "subSectionCategories": [
+        {
+          "category": [
+            {
+              "categoryId": "421",
+              "categoryName": "Curtain walling",
+              "items": [
+                {
+                  "item": [
+                    {
+                      "itemId": "4211",
+                      "itemName": "Proprietary curtain walling"
+                    },
+                    {
+                      "itemId": "4212",
+                      "itemName": "Non-proprietary exposed grid cladding"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subSectionId": "52",
+      "subSectionName": "Roofing",
+      "subSectionTitle": "What type of roofing does your property have?",
+      "subSectionYesNo": true,
+      "subSectionOther": false,
+      "subSectionCategories": [
+        {
+          "category": [
+            {
+              "categoryId": "521",
+              "categoryName": "Curtain roof",
+              "items": [
+                {
+                  "item": [
+                    {
+                      "itemId": "5211",
+                      "itemName": "Proprietary curtain roofing"
+                    },
+                    {
+                      "itemId": "5212",
+                      "itemName": "Non-proprietary exposed grid roofing"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
