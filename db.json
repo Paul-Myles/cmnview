@@ -63,6 +63,22 @@
       ]
     }
   ],
+  "building": [
+    {
+      "name": "Default Building Name",
+      "address_line_1": "Default Address Line 1",
+      "address_line_2": "Default Address Line 2",
+      "city": "Default City",
+      "country": "Default Country"
+    },
+    {
+      "name": "Default Building Name2",
+      "address_line_1": "Default Address Line 3",
+      "address_line_2": "Default Address Line 4",
+      "city": "Default City1",
+      "country": "Default Country1"
+    }
+  ],
   "unit": [
     {
       "id": 0,
